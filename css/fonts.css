@@ -1,0 +1,10 @@
+/*--font-family Abel*/
+@font-face{
+    font-family: Abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+}
+/*--font-family Oleo_Script*/
+@font-face{
+    font-family: Oleo_Script;
+    src: url(../fonts/Oleo_Script/OleoScript-Regular.ttf);
+}
